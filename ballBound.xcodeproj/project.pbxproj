@@ -15,6 +15,7 @@
 		CE3A456D210F27BC007F4307 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3A456B210F27BC007F4307 /* Main.storyboard */; };
 		CE3A456F210F27C4007F4307 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3A456E210F27C4007F4307 /* Assets.xcassets */; };
 		CE3A4572210F27C4007F4307 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3A4570210F27C4007F4307 /* LaunchScreen.storyboard */; };
+		CE7C179921132C29003EECC1 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7C179821132C29003EECC1 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CE3A456E210F27C4007F4307 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3A4571210F27C4007F4307 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3A4573210F27C4007F4307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE7C179821132C29003EECC1 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				CE3A4563210F27BC007F4307 /* GameScene.sks */,
 				CE3A4565210F27BC007F4307 /* Actions.sks */,
 				CE3A4567210F27BC007F4307 /* GameScene.swift */,
+				CE7C179821132C29003EECC1 /* File.swift */,
 				CE3A4569210F27BC007F4307 /* GameViewController.swift */,
 				CE3A456B210F27BC007F4307 /* Main.storyboard */,
 				CE3A456E210F27C4007F4307 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE3A4568210F27BC007F4307 /* GameScene.swift in Sources */,
+				CE7C179921132C29003EECC1 /* File.swift in Sources */,
 				CE3A456A210F27BC007F4307 /* GameViewController.swift in Sources */,
 				CE3A4562210F27BC007F4307 /* AppDelegate.swift in Sources */,
 			);
